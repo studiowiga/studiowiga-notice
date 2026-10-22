@@ -6,7 +6,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
 | ARC | 2.4.1 | [ARC_Manual_EN-FR.pdf](ARC_Manual_EN-FR.pdf) | 2.4 |
-| CHROMA (ex-Tuna) | 1.1.0 | [CHROMA_Manual_EN-FR.pdf](CHROMA_Manual_EN-FR.pdf) | 1.1.0 |
+| Chroma (ex-Tuna) | 1.1.1 | [CHROMA_Manual_EN-FR.pdf](CHROMA_Manual_EN-FR.pdf) | 1.1.1 |
 | Echoflex | 1.2.1 | [Echoflex_Manual_EN-FR.pdf](Echoflex_Manual_EN-FR.pdf) | 1.2 |
 | Eight Echo | 1.5.3 | [EightEcho_Manual_EN-FR.pdf](EightEcho_Manual_EN-FR.pdf) | 1.5 |
 | Fantomine | 1.1.1 | [Fantomine_Manual_EN-FR.pdf](Fantomine_Manual_EN-FR.pdf) | 1.1 |
