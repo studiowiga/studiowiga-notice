@@ -20,7 +20,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Peachy | 1.3.5 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.3.5 |
 | Phase 90 | 1.1.2 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.1.1 |
 | Ring Think | 2.2.1 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.2.0 |
-| Semitones | 1.4.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.4.1 |
+| Semitones | 1.4.2 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.4.2 |
 | Small Tone | 1.0.1 | [SmallTone_Manual_EN-FR.pdf](SmallTone_Manual_EN-FR.pdf) | 1.0.0 |
 | Textural | 1.0.1 | [Textural_Manual_EN-FR.pdf](Textural_Manual_EN-FR.pdf) | 1.0 |
 | Wharry | 1.7.0 | [Wharry_Manual_EN-FR.pdf](Wharry_Manual_EN-FR.pdf) | 1.7.0 |
