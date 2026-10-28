@@ -6,7 +6,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | Plugin | Plugin actuel | Notice | Version de la notice |
 |---|---|---|---|
 | ARC | 2.4.1 | [ARC_Manual_EN-FR.pdf](ARC_Manual_EN-FR.pdf) | 2.4 |
-| Chroma (ex-Tuna) | 1.1.1 | [CHROMA_Manual_EN-FR.pdf](CHROMA_Manual_EN-FR.pdf) | 1.1.1 |
+| Chroma (ex-Tuna) | 1.1.2 | [CHROMA_Manual_EN-FR.pdf](CHROMA_Manual_EN-FR.pdf) | 1.1.2 |
 | Crycat | 1.3.0 | [Crycat_Manual_EN-FR.pdf](Crycat_Manual_EN-FR.pdf) | 1.3.0 |
 | Doorn | 2.10.0 | [Doorn_Manual_EN-FR.pdf](Doorn_Manual_EN-FR.pdf) | 2.10.0 |
 | Echoflex | 1.2.1 | [Echoflex_Manual_EN-FR.pdf](Echoflex_Manual_EN-FR.pdf) | 1.2 |
