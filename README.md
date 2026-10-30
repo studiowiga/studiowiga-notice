@@ -19,7 +19,7 @@ Bilingual (English + French) user manuals for the Studio Wiga VST3 plugins.
 | NGATE | 1.4.0 | [NGATE_Manual_EN-FR.pdf](NGATE_Manual_EN-FR.pdf) | 1.4.0 |
 | Octopus | 1.0.6 | [Octopus_Manual_EN-FR.pdf](Octopus_Manual_EN-FR.pdf) | 1.0.6 |
 | Peachy | 1.5.0 | [Peachy_Manual_EN-FR.pdf](Peachy_Manual_EN-FR.pdf) | 1.5.0 |
-| Pipeline | 1.4.2 | [Pipeline_Manual_EN-FR.pdf](Pipeline_Manual_EN-FR.pdf) | 1.4.2 |
+| Pipeline | 1.4.3 | [Pipeline_Manual_EN-FR.pdf](Pipeline_Manual_EN-FR.pdf) | 1.4.3 |
 | Phase 90 | 1.3.0 | [Phase90_Manual_EN-FR.pdf](Phase90_Manual_EN-FR.pdf) | 1.3.0 |
 | Ring Think | 2.4.0 | [RingThink_Manual_EN-FR.pdf](RingThink_Manual_EN-FR.pdf) | 2.4.0 |
 | Semitones | 1.5.1 | [Semitones_Manual_EN-FR.pdf](Semitones_Manual_EN-FR.pdf) | 1.5.1 |
